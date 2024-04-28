@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Neilaksh
 - 👀 I’m interested in coding & gaming
 - 🌱 I’m currently learning Python
-- 📫 How to reach me ,,, you can follow me on my blog//https://neilakshcoding.blogspot.com/
+- 📫 How to reach me ,,,no where
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I use Vscode
 
